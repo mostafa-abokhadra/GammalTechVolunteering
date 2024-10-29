@@ -13,7 +13,7 @@ we should do an assessment to gammal tech first, yup we should know ourselves ac
 6. Analyze audience and student opinions on pricing, including perceptions of value for services and whether they find the cost appropriate or excessive
 7. What features do gammal tech products lack that users are asking for
 
-### compatitors
+### competitors
 
 1. **What features or opportunities are missing from competitors' offerings that users are requesting?**
    - Onsite learning opportunities
