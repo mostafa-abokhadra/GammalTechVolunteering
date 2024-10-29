@@ -4,6 +4,7 @@
 3. **Crunchbase**:  provides information about businesses
 
 ### market research summary
+
 1. **Define Your Research Objectives**:
     - specify what you want to gain
 2. **Identify and Segment Competitors**:
