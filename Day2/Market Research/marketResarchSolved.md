@@ -12,3 +12,16 @@ we should do an assessment to gammal tech first, yup we should know ourselves ac
 5. Collect feedback from students on the curricula offered and gather suggestions for service improvements.
 6. Analyze audience and student opinions on pricing, including perceptions of value for services and whether they find the cost appropriate or excessive
 7. What features do gammal tech products lack that users are asking for
+
+### compatitors
+
+1. What features do competitors’ products lack that users are asking for
+- opportunity for onsite learning
+- opportiunity for volunteering work
+- well respected certificate
+- opportunity for internship
+- opportunity for work
+- opportunity to work in a team
+2. How do competitor prices compare with our pricing model
+- most of our competitors offers valuable free courses
+- their courses costs are almost similar to ours

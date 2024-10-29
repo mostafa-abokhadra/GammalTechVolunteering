@@ -1,10 +1,11 @@
 ### compatitors data you should collect
+
 To perform a thorough competitive analysis during market research, gathering comprehensive data on competitors across multiple areas is essential. Here’s a detailed breakdown of key data categories you should collect about competitors:
 
 ---
 
 ### **1. Basic Company Information**
-   - **Company Overview**: Year founded, headquarters, core mission, and values.
+   - **Company Overview**: Year founded, headquarters المقر الرئيسي, core mission, and values.
    - **Size and Market Position**: Employee count, revenue (if available), and overall market share.
    - **Ownership and Funding**: Ownership structure (public, private, etc.) and recent funding rounds or investor backing.
    - **Geographic Reach**: Countries or regions where the company operates, along with any notable local partnerships.
