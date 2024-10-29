@@ -44,3 +44,4 @@ we should do an assessment to gammal tech first, yup we should know ourselves ac
    - Internship placements
    - Job placement or career advancement opportunities
    - Team-based or collaborative learning experiences
+   - Technological advancements
