@@ -26,3 +26,5 @@
 11. who owns or manage your business
 12. what are your short and long term goals
 
+1. **Products, services and market analysis**
+- simply a research of your customers, competitors and industry
