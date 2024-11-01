@@ -28,3 +28,8 @@
 
 1. **Products, services and market analysis**
 - simply a research of your customers, competitors and industry
+
+#### market reasearch
+- it will help you understand your business's place in the market, how it can develop, and who your customers are and how you can reach them.
+- Learn about the data sources you can use.
+- You will have an advantage over competitors if you know your strengths and weaknesses and the value of what you offer to customers
