@@ -44,14 +44,14 @@ You will have an advantage over competitors if you know your strengths and weakn
         - advertising campaigns
         - new products or services.
 - **market research and customer research** 
-    - market research involves data and statistics for
+    - **market research involves data and statistics for**
         - overall industry
         - market attributes
         - economic and population fluctuations
         - technology innovations
         - internet and mobile phone usage
         - competitor activities
-    - customer research involves data and insights into
+    - **customer research involves data and insights into**
         - gives you insight into why customers are currently buying or not buying from you, and what they may want to purchase from you in the future.
         - what, when and how often customers want to buy (quantitative data)
         - why they make their decisions (qualitative insights).
@@ -60,6 +60,21 @@ You will have an advantage over competitors if you know your strengths and weakn
     - Search engine trends tools e:g google trends
     - professional market research 
     - analyze your own business past performance and good returned
-
+- **Set your objectives, collect data and analyse**
+- **Planning research methods and activities**
+    - **primary research**
+        - asking for customer feedback
+        - focus group testing your own product
+        - interviewing prospective customers
+        - online review on your website or social media
+        - visit your competitors online sites and study therir pricing and techniques
+        - online polls of your followers about their preferences
+        - Understand what your customers are buying and when
+    - **secondary research**
+        - reviewing industry sales and figures
+        - review industry reports and trade journals
+        - review market research reports
+        - trends
+        - governement departement and agency data
 
 market reserch [reference](https://www.business.qld.gov.au/running-business/marketing-sales/market-customer-research/plan-conduct)
