@@ -40,12 +40,6 @@
 - You will have an advantage over competitors if you know your strengths and weaknesses and the value of what you offer to customers
 - simply a research of your customers, competitors and industry
 
-- **market research tools**
-    - Industry report databases (review reports and journals)
-    - Search engine trends tools e:g google trends
-    - professional market research 
-    - analyze your own business past performance and good returned
-- **Set your objectives, collect data and analyse**
 - **Planning research methods and activities**
     - **primary research**
         - asking for customer feedback
