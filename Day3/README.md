@@ -40,20 +40,4 @@
 - You will have an advantage over competitors if you know your strengths and weaknesses and the value of what you offer to customers
 - simply a research of your customers, competitors and industry
 
-- **Planning research methods and activities**
-    - **primary research**
-        - asking for customer feedback
-        - focus group testing your own product
-        - interviewing prospective customers
-        - online review on your website or social media
-        - visit your competitors online sites and study therir pricing and techniques
-        - online polls of your followers about their preferences
-        - Understand what your customers are buying and when
-    - **secondary research**
-        - reviewing industry sales and figures
-        - review industry reports and trade journals
-        - review market research reports
-        - trends
-        - governement departement and agency data
-
 market reserch [reference](https://www.business.qld.gov.au/running-business/marketing-sales/market-customer-research/plan-conduct)
