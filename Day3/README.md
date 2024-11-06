@@ -29,7 +29,7 @@
 -----
 ## market research
 
-### 1. **Products, services offered by you
+### 1. Products, services offered by you
 
 
 ### 2. market reasearch
