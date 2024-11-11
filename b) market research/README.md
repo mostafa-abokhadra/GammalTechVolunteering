@@ -1,0 +1,1 @@
+this task if to search about the programming teaching market, about us gammal tech, and to know our competitors in the market, finding gaps and creating opportunities for thriving
