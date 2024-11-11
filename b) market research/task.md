@@ -99,7 +99,7 @@ still need more answers from community
 
 ### **hsoub**
 
-  **analytics****:**
+  **analytics**
 
   ![](./imgs/hsoubAnalytcis.png)
 
@@ -143,7 +143,7 @@ still need more answers from community
 
 ### **edraak**
 
-  **analytics****:**
+  **analytics**
 
   ![](./imgs/edraakAnalytics.png)
   
