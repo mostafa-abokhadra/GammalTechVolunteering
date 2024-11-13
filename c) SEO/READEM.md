@@ -1,0 +1,1 @@
+this task is all about ideas and guidelines to follow in order for search engines to easily crawl and index you website pages
