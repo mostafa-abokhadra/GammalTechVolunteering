@@ -1,39 +1,57 @@
 # Technologies
 
-## **frontend:** html, css, tailwind, js, ejs, DOM, web browser, developer tools
+## frontend
+html, css, tailwind, js, ejs, DOM, web browser, developer tools
 
-## **backend:** JS, OOP,** nodejs
+## backend
+JS, OOP, nodejs
 
-## **database:** mysql
+## database
+mysql
 
-### **version control:** git and github
+### version control
+git and github
 
-## **third-party services:-**
+## third-party services
 
-### **Framework:** express
+### Framework:
+express
 
-### **session management :**  express-session
+### session management
+express-session
 
-### **validation**: express-validators
+### validation
+express-validators
 
-### **authentication and authorization**: passport, passport-local, passport-google-oidc, googleAPI, bcrypt
+### authentication and authorization
+passport, passport-local, passport-google-oidc, googleAPI, bcrypt
 
-### **database queries**: prisma
+### database queries
+prisma
 
-### **sending collaboration request**: GitHub API, passport-github
+### sending collaboration request
+GitHub API, passport-github
 
-### **handling team cha**t: [socket.io](http://socket.io) 
+### handling team chat
+socket.io
 
-### **sending emails**: nodemailer
+### sending emails
+nodemailer
 
-### **devDependencies**: dotenv, nodemon
+### devDependencies:
+dotenv, nodemon
 
-### **operating system**: Linux: ubuntu
+### operating system:
+Linux: ubuntu
 
-## **IDE**: vs, vim
+### IDE
+vs, vim
 
-### **deployment**: in vercel -&gt; <https://codacode.vercel.app/> 
+### deployment
+in vercel https://codacode.vercel.app/
 
-### **database service**: aiven
+### database service provider
+aiven
 
-### **other services :** Pinterest, background removal, google fonts, font awesome, normalizing.css ﬁle, OS or crypto modules to generate secrete keys, environmental vars
+### other services
+Pinterest, background removal, google fonts, font awesome, normalizing.css ﬁle, OS or crypto modules to generate secrete keys, environmental vars
